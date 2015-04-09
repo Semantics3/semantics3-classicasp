@@ -82,13 +82,13 @@ End If
 %>
 ```
 
-## Contributing
+## Deprecated
 
-Use GitHub's standard fork/commit/pull-request cycle.  If you have any questions, email <support@semantics3.com>.
+This repo is now deprecated and no longer supported. 
 
 ## Author
 
-* Srinivasan Kidambi <srinivas@semantics3.com>
+* Srinivasan Kidambi
 
 ## Copyright
 
