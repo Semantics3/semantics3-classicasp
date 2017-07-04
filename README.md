@@ -1,6 +1,6 @@
-#Note: This repo is now deprecated and no longer supported. 
+>**Note**: This repo is now deprecated and no longer supported. 
 
-# semantics3-classicasp
+# semantics3-classicasp 
 
 semantics3-classicasp is a Classic ASP VBScript code sample for accessing the Semantics3 Products API, which provides structured information, including pricing histories, for a large number of products.
 
