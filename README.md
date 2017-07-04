@@ -21,7 +21,7 @@ $ git clone git@github.com:Semantics3/semantics3-classicasp.git
 ## Requirements
 
 * IIS (or IIS Express)
-* VBScriptOAuth (http://scottdesapio.com/VBScriptOAuth/oAuthASPExample.zip, project homepage http://scottdesapio.com/VBScriptOAuth/)
+* VBScriptOAuth (http://scottdesapio.com/VBScriptOAuth/)
 
 ## Getting Started
 
@@ -31,8 +31,7 @@ You can access your API access credentials from the user dashboard at https://ww
 
 ### Setup Work
 
-This code sample uses Classic ASP VBScript OAuth library by Scott DeSapio (http://scottdesapio.com/VBScriptOAuth/) to make the OAuth authentication with Semantics3 Products API. The OAuth library can be downloaded from http://scottdesapio.com/VBScriptOAuth/oAuthASPExample.zip or from this github repo.
-Then it constructs the JSON query, queries the products endpoint and prints the API reponse to the web page.
+This code sample uses Classic ASP VBScript OAuth library by Scott DeSapio (http://scottdesapio.com/VBScriptOAuth/) to make the OAuth authentication with Semantics3 Products API. Then it constructs the JSON query, queries the products endpoint and prints the API reponse to the web page.
 
 
 ```vbscript
